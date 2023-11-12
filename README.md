@@ -1,10 +1,10 @@
-## Hi there 👋
+## Welcome 👋
 
-### Tech
-
-![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=PHP)
-![Laravel](https://img.shields.io/badge/-laravel-orange?style=for-the-badge&logo=LARAVEL)
-
+![PHP](https://img.shields.io/badge/php-8.2.x-blue?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-10.x-red?&logo=LARAVEL)
+![JS](https://img.shields.io/badge/-javascript-grey?logo=javascript)
+![TS](https://img.shields.io/badge/-typescript-grey?logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-07b374?logo=vue.js)
 
 
 <!--
