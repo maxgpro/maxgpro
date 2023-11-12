@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+### Tech
+
+![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=PHP)
+![Laravel](https://img.shields.io/badge/-laravel-orange?style=for-the-badge&logo=LARAVEL)
+
+
 
 <!--
 **maxgpro/maxgpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
