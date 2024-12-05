@@ -1,7 +1,7 @@
 ## Welcome 👋
 
 ![PHP](https://img.shields.io/badge/php-8.2.x-blue?logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red?&logo=LARAVEL)
+![Laravel](https://img.shields.io/badge/Laravel-11.x-red?&logo=LARAVEL)
 ![JS](https://img.shields.io/badge/-javascript-grey?logo=javascript)
 ![TS](https://img.shields.io/badge/-typescript-grey?logo=typescript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-07b374?logo=vue.js)
